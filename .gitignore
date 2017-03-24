@@ -1,0 +1,13 @@
+*.un~
+*.swp
+
+node_modules
+npm-debug.log
+
+coverage
+.nyc_output
+
+**/*.js
+**/*.js.map
+
+!/*.js
